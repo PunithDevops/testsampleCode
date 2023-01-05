@@ -1,2 +1,10 @@
-<h1> Hello this is my test code !! </h1>
-<h2> welcome to punith test home 05th jan 7:57 pm </h2>
+
+<!doctype html>
+<html>
+  <head>
+    <title>This is punith testing this page 5th jan 8 pm !</title>
+  </head>
+  <body>
+    <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
+  </body>
+</html>
