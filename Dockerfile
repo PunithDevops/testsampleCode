@@ -1,4 +1,4 @@
-# Pull base image 
+# Pull base image ok 
 From tomcat:8.0
 
 # Maintainer 
